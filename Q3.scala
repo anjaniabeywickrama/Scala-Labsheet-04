@@ -1,6 +1,6 @@
 package Labsheet04
 
-object Q4 {
+object Q3 {
 
     def toLower(str: String): String = str.toLowerCase()
 
